@@ -1,1 +1,1 @@
-# valk-script
+# ninja-script

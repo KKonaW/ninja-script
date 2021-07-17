@@ -1,0 +1,18 @@
+{
+	"GLOBAL_LATENCY": 100,
+	"GLOBAL_LATENCY_DESCRIPTION": "change GLOBAL_LATENCY to your lowest usual ping",
+	"AA_RATIO": 20,
+	"AA_RATIO_DESCRIPTION": "Auto attack glitch emulator. Default is 1, setting it higher increases AA speed.",
+	"BH_ANTI_GHOST": true,
+	"BH_ANTI_GHOST_DESCRIPTION": "Slows down first hit of BH but will stop most ghosting for BH. Activate this if you experience ghosting.",
+	"BH_ALGORITHM_2": true,
+	"BH_ALGORITHM_2_DESCRIPTION": "For people who have bugged BH on algorithm 1 (unstable net), however this algorithm is SLOWER by 10~20ms. BH_ANTI_GHOST is not required for this algorithm.",
+	"DISABLE_IFRAME_EMULATION": false,
+	"DISABLE_IFRAME_EMULATION_DESCRIPTION": "Will disable emulation for shadow jump and 1k cut, but why?",
+	"DISABLE_1K_EMULATION": false,
+	"DISABLE_1K_EMULATION_DESCRIPTION": "Will disable emulation for 1k cut, but why?",
+	"CHAKRA_QUICK_ATTACK": true,
+	"CHAKRA_QUICK_ATTACK_DESCRIPTION": "Auto quick attack after chakra thrust. Requires robotjs.",
+	"QUICK_ATTACK_KEY": "0",
+	"QUICK_ATTACK_KEY_DESCRIPTION": "Quick Attack key, find keyboard syntax list here http://robotjs.io/docs/syntax."
+}

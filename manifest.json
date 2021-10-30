@@ -1,0 +1,15 @@
+{
+    "files": {
+        "index.js": "c6667fd05b8633c999a0df3a863afe694f0251132e29e0b69edbde3b9bbc0bce",
+        "module.json": "7433efe270d4c644c4d852b5a768ad5491c3a7c8d4296bab55ba3700df0124ce"
+    },
+    "defs": {
+        "S_ACTION_STAGE": 9,
+        "S_ACTION_END": 5,
+        "S_START_COOLTIME_SKILL": 3,
+        "S_PLAYER_STAT_UPDATE": 14,
+        "C_START_SKILL": 7,
+        "C_NOTIFY_LOCATION_IN_ACTION": 4,
+        "C_NOTIFY_LOCATION_IN_DASH": 4
+    }
+}

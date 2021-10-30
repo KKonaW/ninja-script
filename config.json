@@ -1,5 +1,5 @@
 {
-	"GLOBAL_LATENCY": 100,
+	"GLOBAL_LATENCY": 20,
 	"GLOBAL_LATENCY_DESCRIPTION": "change GLOBAL_LATENCY to your lowest usual ping",
 	"AA_RATIO": 20,
 	"AA_RATIO_DESCRIPTION": "Auto attack glitch emulator. Default is 1, setting it higher increases AA speed.",

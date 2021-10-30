@@ -1,1 +1,1 @@
-# ninja-script.
+# ninja-script
